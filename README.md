@@ -1,5 +1,13 @@
-# Big-Data-in-Political-Science
-Online Appendix and replication materials for the article "Political Science and Big Data: Structured Data, Unstructured Data, and How to Use Them" by Jonathan Grossman and Ami Pedahzur, to be published in *Political Science Quarterly*.
+### Online Appendix for
+
+## [*Political Science and Big Data: Structured Data, Unstructured Data, and How to Use Them*](https://doi.org/10.1002/polq.13032)
+
+by [Jonathan Grossman](https://twitter.com/CatRobotIL) and Ami Pedahzur
+
+Published in [*Political Science Quarterly*](https://www.psqonline.org/), Volume 135 (June 2020).
+
+
+# Contents of the Appendix
 
 
 **Online-Appendix.pdf** : An online appendix to the article.
